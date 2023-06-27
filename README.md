@@ -11,4 +11,6 @@
   </a>
 </p>
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true" width="100%" alt=""/>
+
