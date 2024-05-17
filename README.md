@@ -6,7 +6,7 @@
 <h2 align="center">掌握技能</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,cs,cpp,py,go,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,cs,cpp,py,go,androidstudio,pycharm,webstorm" />
   </a>
 </p>
 
