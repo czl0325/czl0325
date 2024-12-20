@@ -11,7 +11,10 @@
 </p>
 
 <h2 align="center">GitHub成就</h2>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt" width="60%" alt=""/>
-</p>
 
+<div align="center">
+  
+|<img src="https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt" alt=""/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czl0325&theme=cobalt&layout=compact" alt=""/>|
+| ------------- | ------------- |
+  
+</div>
