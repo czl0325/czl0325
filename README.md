@@ -13,8 +13,11 @@
 <h2 align="center">GitHub成就</h2>
 
 <div align="center">
-  
-|<img src="https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt" alt=""/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czl0325&theme=cobalt&layout=compact" alt=""/>|
+
+| ![](https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czl0325&theme=algolia) | 
 | ------------- | ------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czl0325&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=czl0325&theme=algolia) |
+
   
 </div>
+
