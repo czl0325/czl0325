@@ -14,10 +14,10 @@
 
 <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czl0325&theme=algolia) | 
-| ------------- | ------------- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czl0325&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=czl0325&theme=algolia) |
-
+![](https://github-readme-stats.vercel.app/api?username=czl0325&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czl0325&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czl0325&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=czl0325&theme=algolia) 
   
 </div>
 
